@@ -390,6 +390,10 @@
 - **Сайт:** https://pika.art  
 - **Опис:** Платформа “idea-to-video” для швидких соц-відео, ефектів та анімацій.
 
+### ImagineClip
+- **Сайт:** https://imagineclip.com
+- **Опис:** AI-генератор відео для avatar clips, стилізованих сцен і social-ready роликів.
+
 ### Luma Dream Machine
 - **Сайт:** https://lumalabs.ai/dream-machine  
 - **Опис:** Кінематографічні кліпи з тексту/зображень; веб і iOS.
