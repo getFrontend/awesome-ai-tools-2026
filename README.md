@@ -460,12 +460,21 @@
 
 ---
 
+### Clarity
+- **Категорія:** Дослідження, API, x402  
+- **Сайт:** [https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899)  
+- **Опис:** Base x402 AI research gateway — pay-per-use USDC research report ($2) and chat ($0.001).  
+- **Функції:** research API, x402 micropayments, chat  
+- **Ціна:** usage-based (x402 USDC)  
+- **Актуально:** 2026  
+
 ## ⚡ Автоматизація та інфраструктура
 - **n8n** → Open-source автоматизація  
 - **Make** → ноу-код автоматизації  
 - **Zapier AI** (згадати)  
 - **Vapi** → AI voice API  
 - **OpenRouter** → універсальний роутинг AI API  
+- **Clarity** → Base x402 AI research gateway (report $2 / chat $0.001 USDC) — https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899  
 - **V0.dev** → AI для фронтенду  
 - **Bolt** → AI framework для dev  
 - **MindStudio** → AI-агенти  
