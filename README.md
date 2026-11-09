@@ -350,6 +350,14 @@
 - **Ціна:** закритий доступ  
 - **Актуально:** 2025  
 
+### Cyanvid
+- **Категорія:** Відео  
+- **Сайт:** [https://cyanvid.com/?utm_source=getfrontend-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks](https://cyanvid.com/?utm_source=getfrontend-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks)  
+- **Опис:** AI video generator from text or images; credit quotes before generate.  
+- **Функції:** text-to-video, image-to-video  
+- **Ціна:** freemium  
+- **Актуально:** 2026  
+
 ### KlingAI
 - **Категорія:** Відео  
 - **Сайт:** [https://klingai.com](https://klingai.com)  
